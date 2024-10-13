@@ -24,7 +24,7 @@ To run this app locally, follow these steps:
    
 2. Install the required libraries:
    ```bash
-   pip install streamlit pandas requests pickle5
+   pip install -r requirments.txt
    ```
 
 3. Place the following files in the same directory as the main script:
